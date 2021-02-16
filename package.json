@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/peterslavov/dynamic-server-discord-bot/issues"
   },
-  "homepage": "https://github.com/peterslavov/dynamic-server-discord-bot#readme"
+  "homepage": "https://github.com/peterslavov/dynamic-server-discord-bot#readme",
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "prettier": "^2.2.1"
+  }
 }
